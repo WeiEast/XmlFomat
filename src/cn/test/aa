@@ -1,0 +1,14 @@
+POST /login/ajax HTTP/1.1
+Host: login.189.cn
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:46.0) Gecko/20100101 Firefox/46.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Referer: http://login.189.cn/login
+Content-Length: 30
+Cookie: dqmhIpCityInfos=%E7%BE%8E%E5%9B%BD; cityCode=bj; SHOPID_COOKIEID=10001; s_fid=2D35FF5E488185FF-1FF17EAB523FA257; loginStatus=non-logined; lvid=5599cc856a146f0ced71b2d854c777cb; nvid=1; trkId=E43EDBF1-8382-4E7F-ACDA-4F7E5893DF0B; s_cc=true; ECSLoginReq=ReqPath=WKTUcaKxENIPN9YZ15CSxnHlCOOcAJo2NUtTAeUzrXBQFsDYCOdS8LTLYyyF1+Q4KvDgvUs0/pWBR7i5kwoegb82HRebWaFN/PIu+BhTgzwWtjpP00K7oJORB8w95FRJz4wfdP2UmxAapWFqP9md7eJoC3+1M3PGZg4EoVKOilSt+oiDWbfgfm0KHHyIqkcEYF4dGh4d4FKCLFMQ5fG1SEj9pwzfrD/X53oL7Mzq6O7z4yBBjsvkVNRzqAavrOoAEwWW7DBRrBJGRd80k3J30k25GMsuTwnNLTP+rzo+Mdl6rUaE1MQHQ0nXMvHlHTqkDY3XkSxRItVUGI1+Hy8/WuQMWCWOWsRuSznOh1Lq/DpMkG4uObCD9w==&ReqQuery=Rlo7Xn+UMWQPHgJHKN5dE5aspXvQrshwzcRMuVqwFPSU4mFDMoAc9teaqz8scoC2osXuJL8JU1SUtTUb23gaiYdNVbD8xUm3kbvilNLGkfqdT29aSTrYUHFzpY00kLBaqMigK7O9rmh/3fCa+XzAGY6yxk+OkNSik2AMZw5G1zpXn6Ym2n1RLSfcU1sfJK/PKhwjirXlhtZdid12iunjbRlJsjWVq6qHe9qD0wlwR1MDMozXq8AA/kBkV13H0P8bAxFyUC1opdoIIYJlEZGWu9A6RNDttc8fcN7eou5rKggRseDhcNZjGw==&ResPath=; __qc_wId=209; pgv_pvid=163648192; insight_v=20151104
+Connection: keep-alive
+
+m=checkphone&phone=18765835989
